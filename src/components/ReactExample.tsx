@@ -1,3 +1,5 @@
+"use client";
+
 import * as THREE from "three";
 import { useMemo, useRef } from "react";
 import { Canvas, GroupProps, useFrame } from "@react-three/fiber";
